@@ -1,1 +1,1 @@
-# Restaurant-Reservation-System-Management
+# Restaurant-Reservation-Management-System
